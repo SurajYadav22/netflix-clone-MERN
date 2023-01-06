@@ -8,7 +8,8 @@
 - Users can filter program based on categories.
 - Users can play a video.
 - Users can add movies in their List.
-- Users can delete movies from their List.
+- Users can delete movie from their List.
+- Users can like and dislike any show.
 
 
 # Deployed Link -  https://netflixbestclone.netlify.app
