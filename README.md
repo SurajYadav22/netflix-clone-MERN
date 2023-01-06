@@ -62,7 +62,7 @@
 - RENDER
 - POSTMAN
 
-#TECHNOLOGIES
+# TECHNOLOGIES
 - Mongo DB
 - Express JS
 - React JS
